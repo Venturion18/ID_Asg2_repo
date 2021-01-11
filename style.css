@@ -1,8 +1,30 @@
+body{
+    background-color:grey;
+
+}
+
 .header {
     margin: auto;
-    position: relative;
-    left : 600px;
+    text-align: center;
     color:mediumaquamarine;
     font-size: 35px;
     font-weight: bolder;
 }
+
+.container {
+    background-color:limegreen;
+}
+
+.col-sm{
+    font-size: 40px;
+    color: mediumspringgreen;
+    font-weight: bold;
+}
+
+#timePeriod{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
